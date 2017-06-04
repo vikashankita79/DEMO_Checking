@@ -4,6 +4,7 @@ public class ToCheck_Modifier {
 int i=10;
  public ToCheck_Modifier() {
 	System.out.println("Hello");
+	System.out.println("My first Commit");
 }
 
 public ToCheck_Modifier(int i)
