@@ -9,7 +9,8 @@ int number=(s.charAt(0)-'0')*10000+(s.charAt(1)-'0')*1000+(s.charAt(2)-'0')*100+
 	
 	
 	System.out.println(number);
-	System.out.println("Number Working properly");
+	System.out.println("Number Working properly commits works");
+	
 	}
 
 }
